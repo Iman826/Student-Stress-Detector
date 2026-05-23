@@ -9,6 +9,10 @@ This repository contains a **Student Stress Detection System** that combines rea
 - **Weighted Fusion Engine:** Combines facial expression scores (25% weight) and tabular survey scores (75% weight) dynamically to output a robust fused stress score categorized from *Low* to *Severe*.
 - **Interactive Web Interface:** A premium, modern web dashboard with live camera feed, real-time analytics graphs, responsive survey form, and clean status indicators.
 - **CLI/GUI Application:** A quick-run Python script that displays a local CV2 window overlaying face rectangles, labels, and real-time stress levels.
+---
+
+## 📷 Screenshots
+![Preview](preview/preview.png)
 
 ---
 
