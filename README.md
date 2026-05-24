@@ -1,4 +1,4 @@
-# Student Stress Detection System
+# StressSync
 
 This repository contains a **Student Stress Detection System** that combines real-time facial emotion recognition (pictorial data) with an interactive survey (tabular data) to predict stress levels. It supports both a local command-line interface with a CV2 camera window and a full-featured modern web application interface.
 
